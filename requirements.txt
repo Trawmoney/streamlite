@@ -1,0 +1,15 @@
+llama-cpp-python
+streamlit
+litellm
+langchain
+fireworks-ai
+together
+supabase
+openai
+pandas
+tabulate
+numpy
+google-search-results
+streamlit-chat
+streamlit_javascript
+streamlit_code_editor
